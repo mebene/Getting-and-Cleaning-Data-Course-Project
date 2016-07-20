@@ -1,4 +1,7 @@
 Code Book
+the two datasets have the same variables. The difference is that i n data_set2 variable from 3 to 81 are means ordered by subject and activities.
+
+All the code and how the data was transformed cn be found in the run_analysis file.
 
 1. Subject
 
